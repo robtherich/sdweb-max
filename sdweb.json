@@ -1,0 +1,34 @@
+{
+	"pattrstorage" : 	{
+		"name" : "sdweb",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.toggle" : [ 1.0 ],
+					"live.toggle[1]" : [ 0.0 ],
+					"tessel8r::x_offset" : [ 50.0 ],
+					"tessel8r::y_offset" : [ 50.0 ],
+					"tessel8r::mode" : [ 2.0 ],
+					"tessel8r::zoom-valL" : [ 1.0 ],
+					"tessel8r::zoom-mult" : [ 0 ],
+					"tessel8r::zoom-valH" : [ 1.055571116811176 ],
+					"tessel8r::angle" : [ 0.0 ],
+					"mutil8r::invertR" : [ 1.0 ],
+					"mutil8r::rmultiply" : [ 2.0 ],
+					"mutil8r::modeR" : [ 1.0 ],
+					"mutil8r::invertG" : [ 0.0 ],
+					"mutil8r::gmultiply" : [ 1.0 ],
+					"mutil8r::modeG" : [ 1.0 ],
+					"mutil8r::invertB" : [ 1.0 ],
+					"mutil8r::bmultiply" : [ 3.0 ],
+					"mutil8r::modeB" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
